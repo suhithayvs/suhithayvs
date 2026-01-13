@@ -12,12 +12,17 @@ Suhitha Yelchuru<br>Software Developer | Aspiring Security-Focused Engineer<br><
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhithayvs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## Git Hub Stats
+![](https://github-readme-activity-graph.vercel.app/graph?username=suhithayvs&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Profile Summary
-
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhithayvs&theme=dark)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
