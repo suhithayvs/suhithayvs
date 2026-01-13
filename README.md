@@ -1,7 +1,6 @@
 # 💫 About Me:
 Suhitha Yelchuru<br>Software Developer | Aspiring Security-Focused Engineer<br><br>I’m a software developer with hands-on experience in full-stack development and a growing interest in cybersecurity. I enjoy building real projects, understanding how systems work internally, and writing clean, secure code.<br><br>Tech: C, C++, JavaScript, React, SpringBoot, MySql
 
-### 🎬 My Hero Mood
 ![Black Widow GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3bTN4MWNhaGV1eHZnMmFuZTFzcDhiZDNhOGVwZmxmbXJ4dDl6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZvkFmclQO1ImmRNm0K/giphy.gif)
 
 # 💻 Tech Stack:
